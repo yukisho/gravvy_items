@@ -1,4 +1,5 @@
 # gravvy_items
+https://gravvy.tebex.io/package/gravvy-items
 
 DB-backed dynamic items with **QB**, **OX**, and **Qbox** support, image sync, consumables, and a small open **bridge**.
 
